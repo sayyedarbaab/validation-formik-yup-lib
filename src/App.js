@@ -90,7 +90,12 @@ export default function App() {
             <br />
             <label className="label">female:</label>
             <br />
-            <Field className="field" name="gender" value="female" type="radio" />
+            <Field
+              className="field"
+              name="gender"
+              value="female"
+              type="radio"
+            />
             <br />
             <br />
             <label className="label">Date:</label>
