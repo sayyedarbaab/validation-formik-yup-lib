@@ -31,7 +31,7 @@
 .Main-Container {
   width: 50%;
   margin: 0 auto;
-  padding: 20px;
+  padding: 25px;
   background-color: lightblue;
   border-radius: 10px;
 }
@@ -42,7 +42,6 @@
 
 .label {
   display: block;
-  margin-bottom: 5px;
 }
 
 .field {
